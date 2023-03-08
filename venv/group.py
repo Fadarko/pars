@@ -1,8 +1,6 @@
 import time
 from saya.VK import Vk
 
-#vk = Vk(token="4d6cf6b75a1bf5c92d320530871f394f9aa49d9604e6a7c96c1d69f194f5a6d495e2830bb31bc0c9995a5")
-vk = Vk(login=89774294568, password="Zaratustra5")
 
 """param = {
     'count': 1,
